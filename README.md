@@ -24,7 +24,7 @@ The ETL process is **pure SQL** and follows these steps:
 1. **Extract**:  
    - Raw Olist CSV files are imported into `stg_*` staging tables using  
      ```sql
-     LOAD DATA LOCAL INFILE ...
+     LOAD DATA LOCAL INFILE 
      ```
      or MySQL Workbench Import Wizard.
 
