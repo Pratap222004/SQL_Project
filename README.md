@@ -10,10 +10,10 @@ This project is a **full MySQL 8 database** for an e-commerce platform, includin
 
 ## 📊 ER Diagram
 
-> **Note:** Place your ER diagram image in `docs/er_diagram.png` and uncomment the markdown below.
 
-![ER Diagram](<img width="1922" height="1190" alt="image" src="https://github.com/user-attachments/assets/f503e3ed-46f6-47a9-9080-b4b1258058d8" />
-)
+
+<img width="1922" height="1190" alt="image" src="https://github.com/user-attachments/assets/f503e3ed-46f6-47a9-9080-b4b1258058d8" />
+
 
 ---
 
